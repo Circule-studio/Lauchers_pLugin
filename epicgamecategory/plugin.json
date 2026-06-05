@@ -1,0 +1,8 @@
+{
+	"$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+	"name": "epicgamecategory",
+	"common_name": "Epic Game Category",
+	"description": "Connecte ton compte Epic Games et crée une catégorie Steam automatiquement.",
+	"backendType": "lua",
+	"webkitApiVersion": "2.0.0"
+}
