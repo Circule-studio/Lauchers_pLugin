@@ -1,2 +1,2 @@
-# EpicGames_pLugin
+# Lauchers_pLugin
 Plugin for a millennium steam
